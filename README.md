@@ -10,8 +10,6 @@ This project allows you to view a list of dishes from various Asian countries, a
 
 > **HTML** - **CSS** - **JavaScript**
 
-<br/>
-
 ## Usage
 
 Using the project is quite simple. Follow these steps:
